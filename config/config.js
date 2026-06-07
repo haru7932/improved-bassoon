@@ -16,7 +16,7 @@ module.exports = {
   emojis: {
     success: ':checkmark:',
     error: ':xmark:',
-    warning: '⚠️',
+    warning: ':warning:',
     info: 'ℹ️',
     money: '💰',
     cart: '🛒',
