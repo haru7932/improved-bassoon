@@ -14,8 +14,8 @@ module.exports = {
 
   // Emojis usados no bot
   emojis: {
-    success: '✅',
-    error: '❌',
+    success: ':checkmark:',
+    error: ':xmark:',
     warning: '⚠️',
     info: 'ℹ️',
     money: '💰',
